@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data & model nặng
+data/raw/
+*.ckpt
+*.pth
+*.bin
+*.h5
+*.zip
+.ipynb_checkpoints/
+.env
+__pycache__/

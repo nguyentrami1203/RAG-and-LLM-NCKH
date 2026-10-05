@@ -1,0 +1,49 @@
+[
+  {
+    "ax_id": 1,
+    "role": "textbox",
+    "html_id": "full-name",
+    "name": "Full name"
+  },
+  {
+    "ax_id": 2,
+    "role": "textbox",
+    "html_id": "phone",
+    "name": "Phone number"
+  },
+  {
+    "ax_id": 3,
+    "role": "textbox",
+    "html_id": "street",
+    "name": "Street address"
+  },
+  {
+    "ax_id": 4,
+    "role": "textbox",
+    "html_id": "city",
+    "name": "City"
+  },
+  {
+    "ax_id": 5,
+    "role": "combobox",
+    "html_id": "state",
+    "name": "California New York Texas",
+    "options": [
+      "California",
+      "New York",
+      "Texas"
+    ]
+  },
+  {
+    "ax_id": 6,
+    "role": "textbox",
+    "html_id": "zip",
+    "name": "ZIP code"
+  },
+  {
+    "ax_id": 7,
+    "role": "button",
+    "html_id": "save-address",
+    "name": "Add Address"
+  }
+]

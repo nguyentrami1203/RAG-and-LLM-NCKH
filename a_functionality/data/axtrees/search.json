@@ -1,0 +1,26 @@
+[
+  {
+    "ax_id": 1,
+    "role": "textbox",
+    "html_id": "search-box",
+    "name": "Search Amazon Mini"
+  },
+  {
+    "ax_id": 2,
+    "role": "button",
+    "html_id": "search-button",
+    "name": "Search"
+  },
+  {
+    "ax_id": 3,
+    "role": "link",
+    "html_id": "sony-product-link",
+    "name": "View Product"
+  },
+  {
+    "ax_id": 4,
+    "role": "button",
+    "html_id": "add-keyboard-cart",
+    "name": "Add to Cart"
+  }
+]

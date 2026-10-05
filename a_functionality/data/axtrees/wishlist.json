@@ -1,0 +1,26 @@
+[
+  {
+    "ax_id": 1,
+    "role": "button",
+    "html_id": "create-list",
+    "name": "Create a List"
+  },
+  {
+    "ax_id": 2,
+    "role": "textbox",
+    "html_id": "list-name",
+    "name": "Enter list name"
+  },
+  {
+    "ax_id": 3,
+    "role": "button",
+    "html_id": "save-list",
+    "name": "Create List"
+  },
+  {
+    "ax_id": 4,
+    "role": "button",
+    "html_id": "remove-wishlist-item",
+    "name": "Remove Item"
+  }
+]

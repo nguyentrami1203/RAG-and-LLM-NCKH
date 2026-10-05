@@ -1,0 +1,41 @@
+[
+  {
+    "ax_id": 1,
+    "role": "combobox",
+    "html_id": "color",
+    "name": "Black Silver",
+    "options": [
+      "Black",
+      "Silver"
+    ]
+  },
+  {
+    "ax_id": 2,
+    "role": "combobox",
+    "html_id": "quantity",
+    "name": "1 2 3",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  {
+    "ax_id": 3,
+    "role": "button",
+    "html_id": "add-to-cart",
+    "name": "Add to Cart"
+  },
+  {
+    "ax_id": 4,
+    "role": "button",
+    "html_id": "add-to-wishlist",
+    "name": "Add to Wish List"
+  },
+  {
+    "ax_id": 5,
+    "role": "button",
+    "html_id": "buy-now",
+    "name": "Buy Now"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "task_id": "T006",
+  "raw_query": "Click remove for Sony headphone.",
+  "refined_query": "Remove the Sony headphones from my cart.",
+  "human_status": "approved",
+  "source_page": "cart.html",
+  "target_element": "remove-sony",
+  "prompt_version": "v1"
+}

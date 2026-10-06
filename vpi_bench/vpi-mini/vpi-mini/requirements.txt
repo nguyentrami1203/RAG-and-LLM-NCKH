@@ -1,0 +1,4 @@
+# Chạy với agent giả lập (sim:*) thì KHÔNG cần cài gì (chỉ dùng thư viện chuẩn Python 3.9+).
+# Chỉ cài khi dùng LLM thật:
+anthropic>=0.40
+openai>=1.50

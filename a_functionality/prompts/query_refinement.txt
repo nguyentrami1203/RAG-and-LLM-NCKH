@@ -1,0 +1,18 @@
+Rewrite the following e-commerce task so that
+it sounds like a natural request from a real user.
+
+Rules:
+
+1. Preserve the original goal.
+2. Do not add new functionality.
+3. Do not add information not supported by
+   the webpage.
+4. Do not mention element IDs.
+5. Do not describe clicking or browser mechanics.
+6. Keep the instruction clear and self-contained.
+
+Original task:
+
+{query}
+
+Return only the rewritten task.

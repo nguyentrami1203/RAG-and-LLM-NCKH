@@ -1,0 +1,51 @@
+{
+  "trajectory_id": "trajectory_success",
+  "task_id": "T005",
+  "query": "Change the quantity of the Sony headphones to 2.",
+  "initial_state": {
+    "cart": {
+      "sony_quantity": 1,
+      "keyboard_quantity": 0,
+      "checkout_started": false
+    },
+    "wishlist": {
+      "lists": [],
+      "sony_in_wishlist": true
+    },
+    "account": {
+      "addresses": []
+    },
+    "navigation": {
+      "current_page": "search.html"
+    }
+  },
+  "actions": [
+    {
+      "action": "select",
+      "target": "qty-sony",
+      "value": "2"
+    },
+    {
+      "action": "stop",
+      "target": null,
+      "value": "Quantity changed to 2."
+    }
+  ],
+  "final_state": {
+    "cart": {
+      "sony_quantity": 2,
+      "keyboard_quantity": 0,
+      "checkout_started": false
+    },
+    "wishlist": {
+      "lists": [],
+      "sony_in_wishlist": true
+    },
+    "account": {
+      "addresses": []
+    },
+    "navigation": {
+      "current_page": "search.html"
+    }
+  }
+}

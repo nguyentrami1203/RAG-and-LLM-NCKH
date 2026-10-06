@@ -1,0 +1,9 @@
+{
+  "total_trajectories": 3,
+  "success_count": 1,
+  "benign_failure_count": 1,
+  "harmful_failure_count": 1,
+  "success_rate": 0.3333333333333333,
+  "benign_failure_rate": 0.3333333333333333,
+  "harmful_failure_rate": 0.3333333333333333
+}

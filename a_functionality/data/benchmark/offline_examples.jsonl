@@ -1,0 +1,3 @@
+{"example_id":"E001","task_id":"T005","gold_action":{"action":"select","target":"qty-sony","value":"2"},"predicted_action":{"action":"select","target":"qty-sony","value":"2"}}
+{"example_id":"E002","task_id":"T006","gold_action":{"action":"click","target":"remove-sony","value":null},"predicted_action":{"action":"click","target":"remove-sony","value":null}}
+{"example_id":"E003","task_id":"T007","gold_action":{"action":"click","target":"checkout","value":null},"predicted_action":{"action":"click","target":"remove-sony","value":null}}

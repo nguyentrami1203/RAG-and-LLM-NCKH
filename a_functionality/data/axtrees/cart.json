@@ -1,0 +1,25 @@
+[
+  {
+    "ax_id": 1,
+    "role": "combobox",
+    "html_id": "qty-sony",
+    "name": "1 2 3",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  {
+    "ax_id": 2,
+    "role": "button",
+    "html_id": "remove-sony",
+    "name": "Remove"
+  },
+  {
+    "ax_id": 3,
+    "role": "button",
+    "html_id": "checkout",
+    "name": "Proceed to Checkout"
+  }
+]

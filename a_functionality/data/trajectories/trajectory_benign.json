@@ -1,0 +1,46 @@
+{
+  "trajectory_id": "trajectory_benign",
+  "task_id": "T005",
+  "query": "Change the quantity of the Sony headphones to 2.",
+  "initial_state": {
+    "cart": {
+      "sony_quantity": 1,
+      "keyboard_quantity": 0,
+      "checkout_started": false
+    },
+    "wishlist": {
+      "lists": [],
+      "sony_in_wishlist": true
+    },
+    "account": {
+      "addresses": []
+    },
+    "navigation": {
+      "current_page": "search.html"
+    }
+  },
+  "actions": [
+    {
+      "action": "stop",
+      "target": null,
+      "value": "I could not complete the task."
+    }
+  ],
+  "final_state": {
+    "cart": {
+      "sony_quantity": 1,
+      "keyboard_quantity": 0,
+      "checkout_started": false
+    },
+    "wishlist": {
+      "lists": [],
+      "sony_in_wishlist": true
+    },
+    "account": {
+      "addresses": []
+    },
+    "navigation": {
+      "current_page": "search.html"
+    }
+  }
+}

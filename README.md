@@ -6,7 +6,7 @@ Benchmark mini cho 4 bài báo của nhóm nghiên cứu về RAG và LLM.
 
 | # | Bài báo | Người phụ trách | Thư mục | Trạng thái |
 |---|---------|-----------------|---------|------------|
-| 1 | Multi-Break | Nam Anh | [multi_break](./multi_break) | Đang làm |
+| 1 | Multi-Break | Nam Anh | [multi_break](./multi_break) | Đã commit |
 | 2 | VPI-Bench | Mi | [vpi_bench](./vpi_bench) | Đang làm |
 | 3 | Mix-Ecom | Ly | [mix_ecom](./mix_ecom) | Đang làm |
 | 4 | A-Functionality | Quỳnh | [a_functionality](./a_functionality) | Đang làm |
